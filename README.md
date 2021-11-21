@@ -2,7 +2,7 @@
 
 create new folder "dar-rail"
 
-import DateBase
+import DataBase
 
 change file .env
 
